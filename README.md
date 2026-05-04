@@ -2,6 +2,9 @@
 
 Este proyecto es una app móvil creada con Expo y React Native. Utiliza navegación de pestañas (`BottomTabNavigator`) y un stack para la pantalla de lista/detalle.
 
+Se realizaron todos los ejercicios.
+El repositorio es https://github.com/GraceVargas/app_react_native
+
 ## Pantallas
 
 - `Inicio` (HomeStack)
